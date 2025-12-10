@@ -5,7 +5,7 @@ using AndroidX.AppCompat.App;
 
 namespace PruebaAplicacionGym
 {
-    [Activity(Label = "Hola maaa", Theme = "@style/AppTheme", MainLauncher = true)]
+    [Activity(Label = "GlowRank", Theme = "@style/AppTheme", MainLauncher = true)]
     public class MainActivity : AppCompatActivity
     {
         protected override void OnCreate(Bundle savedInstanceState)

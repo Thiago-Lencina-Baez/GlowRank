@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Ph3JiIC3fL4=",
+  "dgSpecHash": "++Ixa3As0N4=",
   "success": true,
-  "projectFilePath": "C:\\Users\\elpel\\source\\repos\\PruebaAplicacionGym\\PruebaAplicacionGym\\PruebaAplicacionGym.csproj",
+  "projectFilePath": "C:\\Users\\elpel\\Desktop\\PruebaAplicacionGym\\PruebaAplicacionGym\\PruebaAplicacionGym.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\elpel\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
     "C:\\Users\\elpel\\.nuget\\packages\\xamarin.androidx.activity\\1.1.0.3\\xamarin.androidx.activity.1.1.0.3.nupkg.sha512",
